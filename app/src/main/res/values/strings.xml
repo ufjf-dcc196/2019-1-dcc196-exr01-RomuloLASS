@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercicio001</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="nome_usuario">Nome</string>
+    <string name="botao_nome">Clique Aqui</string>
+    <string name="sobrenome_usuario">Sobrenome</string>
+</resources>
